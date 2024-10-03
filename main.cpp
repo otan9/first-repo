@@ -1,1 +1,1 @@
-int MAINFUNCTION() {}
+int MAINJUNCTION() {}
