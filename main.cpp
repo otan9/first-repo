@@ -1,1 +1,4 @@
-int MAINJUNCTION() {}
+int main()
+{
+    // the main function
+}
